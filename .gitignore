@@ -3,6 +3,11 @@
 *.lo
 *.o
 *.obj
+*.idb
+*.pdb
+*.map
+*.tlog
+Debug
 
 # Precompiled Headers
 *.gch
@@ -26,3 +31,6 @@
 # Executables
 *.out
 *.app
+
+# others
+*.log
